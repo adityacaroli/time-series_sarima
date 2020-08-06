@@ -11,7 +11,8 @@ some of the topics/terms covered in this time series model:
 => differencing
 => shift() function
 => ARIMA
+=> SARIMA
 => PACF
 => ACF
 => MAPE
-=> forecast
+=> sarimax
